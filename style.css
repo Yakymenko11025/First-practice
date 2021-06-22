@@ -1,0 +1,33 @@
+.col-md-12
+{
+    background: #ffffff;
+}
+.col-md-6
+{
+    background: #ffffff;
+}
+.text
+{
+    background-color: rgba(250, 250, 255, 0.6);
+    color: black;
+    font-weight: bolder;
+}
+.text1
+{
+    color: black;
+    font-weight: bolder;
+}
+.text2 
+{
+    white-space: pre;
+}
+ul 
+{
+   padding-left: 40px;
+   margin-top: 1em;
+   margin-bottom: 1em;
+}
+dl {
+   margin-top: 1em;
+   margin-bottom: 1em;
+}
